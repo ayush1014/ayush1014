@@ -33,14 +33,15 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0 → 1** — architecting full systems end-to-end: native iOS apps, React frontends, FastAPI backends, multi-agent LLM orchestration, and cloud infrastructure that scales.
+I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by architecting full systems end-to-end using native iOS apps, React frontends, FastAPI backends, multi-agent LLM orchestration, and cloud infrastructure that scales.
 
-- 🚀 **Founding Engineer** @ **NoomaLooma** — built the platform from scratch, scaled to **4,000+ users** ahead of 2026 App Store launch
-- 🔍 **Creator** of [**CiteTalk.com**](https://citetalk.com) — agentic research platform with real-time voice AI, orchestrating **24+ LLMs**, serving **1,000+ users**
-- 🤖 Deep focus: **agentic AI systems** — LangGraph, MCP, multi-agent orchestration, hybrid/graph RAG, knowledge graphs
-- 🎓 **M.S. Information Systems** (GPA 4.00 / 4.00) — Northwest Missouri State University
+- 🚀 **Founding Engineer** @ **NoomaLooma** — built the platform from scratch, scaled to **5,000+ users** ahead of 2026 App Store launch
+- 🔍 **Creator** of [**CiteTalk.com**](https://citetalk.com) an multi-agent research platform with real-time voice agents and folder knowledge management and base for AI agent, orchestrating **24+ LLMs**, serving **1,000+ users**
+- 🤖 Deep focus: **agentic AI systems** — LangGraph, LangChain, MCP, multi-agent orchestration, hybrid/graph RAG, knowledge graphs
+- 🎓 **M.S. Information Systems** (GPA 4.00 / 4.00) - Northwest Missouri State University
+- 🎓 **B.S. Computer Science** - Northwest Missouri State University
 - 📍 Based in **Atlanta, GA** • Open to remote & relocation across the US
-- ⚡ Currently shipping: real-time AI moderation, voice agents, self-hosted retrieval pipelines
+- ⚡ Currently shipping: multi-agent AI Solutions, full-stack end-to-end AI Applications, 0-to-1 public facing products, realtime voice agents with <400ms latency, Cloud Native development (**GCP**, **AWS**), self-hosted retrieval pipelines
 
 </td>
 <td width="40%" align="center">
