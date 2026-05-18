@@ -128,7 +128,7 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 ### 🌟 NoomaLooma *(stealth)*
 
 <div align="left">
-  <img width="300" src="assets/noomalooma/Noomalooma.png" alt="NoomaLooma preview" />
+  <img width="400" src="assets/noomalooma/Noomalooma.png" alt="NoomaLooma preview" />
 </div>
 
 **0 → 1 platform as Founding Engineer**
