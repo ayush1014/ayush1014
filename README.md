@@ -110,10 +110,13 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 **Agentic research platform with real-time voice AI**
 
-- Multi-agent deep research system (**LangGraph + MCP**) orchestrating **24+ LLMs** via autonomous task decomposition
-- Self-hosted search engine with real-time crawler — **zero dependency** on third-party search APIs
+- Multi-agent deep research system (**LangGraph + LangChain + MCP**) orchestrating **24+ LLMs** via autonomous task decomposition
+- Self-hosted search engine with real-time crawler - **zero dependency** on third-party search APIs
 - Hybrid retrieval (dense + sparse + rerank) for citation-grounded multi-source synthesis
-- Real-time voice agent at **sub-second latency**
+- Folder-based knowledge management with vector search (**pgVector**) and graph visualization (**Neo4j**) for personal research graph
+- Hybrid infra: **Dockerized FastAPI backend** on **GCP Cloud Run**, React/Vite frontend, PostgreSQL/pgVector database
+- Hybrid RAG(BM25 + dense retrieval) pipeline with **custom-trained LoRA/QLoRA models** for cost-efficient synthesis.
+- Real-time voice agent at **sub-second latency** 
 - **1,000+ users** • Deployed on GCP Cloud Run
 
 `Python` `FastAPI` `React/Vite` `PostgreSQL/pgVector` `LangChain` `LangGraph` `LiteLLM` `Docker` `GCP`
@@ -132,11 +135,11 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 **0 → 1 platform as Founding Engineer**
 
-- Architected end-to-end: native **iOS**, **React** web, **FastAPI**, **NeonDB/PostgreSQL**
-- Multi-agent creative generation pipeline (LangGraph + MCP, hybrid RAG)
+- Architected end-to-end: native **iOS (Swift)**, **React** web admin dashboard, **FastAPI**, **NeonDB/PostgreSQL**
+- Multi-agent creative generation pipeline (LangGraph + MCP, hybrid RAG(BM25 + vector search), custom-trained LoRA/QLoRA models) for AI-powered content creation and curation.
 - Real-time AI moderation pipeline (**WebSockets + cron**) at **<100ms latency**
 - Hybrid **GCP/AWS** infra with Dockerized CI/CD
-- **4,000+ users** scaling to 2026 App Store Early Access launch
+- **5,000+ users** scaling to 2026 App Store Early Access launch
 
 `iOS` `React` `FastAPI` `NeonDB` `LangGraph` `MCP` `Docker` `GCP` `AWS`
 
