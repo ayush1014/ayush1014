@@ -46,7 +46,7 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/216655813-fd5b585d-fcfd-411a-bc62-7c25b7b3eba9.gif" height="320" alt="Developer animation" />
 
 </td>
 </tr>
