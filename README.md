@@ -101,12 +101,10 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 ### 🔍 [CiteTalk.com](https://citetalk.com)
 
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 2px;">
-    <img width="50" paddingBottom="10" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />
-    <img width="300" src="assets/citetalk/citetalk.png" alt="CiteTalk preview" />
-  </div>
-</div>
+<p align="left">
+  <img height="100" align="middle" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />&nbsp;
+  <img height="100" align="middle" src="assets/citetalk/citetalk.png" alt="CiteTalk wordmark" />
+</p>
 
 **Agentic research platform with real-time voice AI**
 
