@@ -115,11 +115,15 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 ## 🚀 Featured Projects
 
-### 🔍 [CiteTalk.com](https://citetalk.com)
+### 🔍 [citetalk.com](https://citetalk.com)
 
 <p align="left">
   <img height="100" align="middle" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />&nbsp;
-  <img height="100" align="middle" src="assets/citetalk/citetalk.png" alt="CiteTalk wordmark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/citetalk/citetalk_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/citetalk/citetalk.png">
+    <img height="100" align="middle" src="assets/citetalk/citetalk.png" alt="CiteTalk wordmark" />
+  </picture>
 </p>
 
 **Agentic research platform with real-time voice AI**
