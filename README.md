@@ -29,37 +29,32 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by architecting full systems end-to-end using native iOS apps, React frontends, FastAPI backends, multi-agent LLM orchestration, and cloud infrastructure that scales.
 
 - 🚀 **Founding Engineer** @ **NoomaLooma** — built the platform from scratch, scaled to **5,000+ users** ahead of 2026 App Store launch
-- 🔍 **Creator** of [**CiteTalk.com**](https://citetalk.com) an multi-agent research platform with real-time voice agents and folder knowledge management and base for AI agent, orchestrating **24+ LLMs**, serving **1,000+ users**
+- 🔍 **Creator** of [**CiteTalk.com**](https://citetalk.com) — multi-agent research platform with real-time voice agents and folder knowledge management, orchestrating **24+ LLMs**, serving **1,000+ users**
 - 🤖 Deep focus: **agentic AI systems** — LangGraph, LangChain, MCP, multi-agent orchestration, hybrid/graph RAG, knowledge graphs
-- 🎓 **M.S. Information Systems** (GPA 4.00 / 4.00) - Northwest Missouri State University
-- 🎓 **B.S. Computer Science** - Northwest Missouri State University
+- 🎓 **M.S. Information Systems** (GPA 4.00 / 4.00) — Northwest Missouri State University
+- 🎓 **B.S. Computer Science** — Northwest Missouri State University
 - 📍 Based in **Atlanta, GA** • Open to remote & relocation across the US
 - ⚡ Currently shipping: multi-agent AI Solutions, full-stack end-to-end AI Applications, 0-to-1 public facing products, realtime voice agents with <400ms latency, Cloud Native development (**GCP**, **AWS**), self-hosted retrieval pipelines
 
-</td>
-<td width="40%" align="center">
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="120" alt="Fire" />
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="140" alt="Fire" />
 
 <h3>🧠 Building AI that ships</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/0--to--1-Builder-58A6FF?style=flat-square" /><br>
-  <img src="https://img.shields.io/badge/Multi--Agent-Architect-9333EA?style=flat-square" /><br>
-  <img src="https://img.shields.io/badge/Voice%20AI-%3C400ms-FF6B6B?style=flat-square" /><br>
-  <img src="https://img.shields.io/badge/Founding-Engineer-FFA500?style=flat-square" />
+  <img src="https://img.shields.io/badge/0--to--1-Builder-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Architect-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Voice%20AI-%3C400ms-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founding-Engineer-FFA500?style=for-the-badge" />
 </p>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
