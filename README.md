@@ -103,8 +103,8 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 <div align="left">
   <div style="display: flex; align-items: center; gap: 2px;">
-    <img width="75" paddingBottom="10px" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />
-    <img width="300" src="assets/citetalk/citetalk.png" alt="CiteTalk preview" />
+    <img width="75" paddingBottom="10" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />
+    <img width="400" src="assets/citetalk/citetalk.png" alt="CiteTalk preview" />
   </div>
 </div>
 
