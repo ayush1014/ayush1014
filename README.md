@@ -46,7 +46,16 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 </td>
 <td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216655813-fd5b585d-fcfd-411a-bc62-7c25b7b3eba9.gif" height="320" alt="Developer animation" />
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="120" alt="Fire" />
+
+<h3>🧠 Building AI that ships</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/0--to--1-Builder-58A6FF?style=flat-square" /><br>
+  <img src="https://img.shields.io/badge/Multi--Agent-Architect-9333EA?style=flat-square" /><br>
+  <img src="https://img.shields.io/badge/Voice%20AI-%3C400ms-FF6B6B?style=flat-square" /><br>
+  <img src="https://img.shields.io/badge/Founding-Engineer-FFA500?style=flat-square" />
+</p>
 
 </td>
 </tr>
