@@ -99,11 +99,15 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔍 [CiteTalk.com](https://citetalk.com)
+
+<div align="left">
+  <div style="display: flex; align-items: center; gap: 2px;">
+    <img width="75" src="assets/citetalk/Citetalk_logo.png" alt="CiteTalk Logo" />
+    <img width="300" src="assets/citetalk/citetalk.png" alt="CiteTalk preview" />
+  </div>
+</div>
+
 **Agentic research platform with real-time voice AI**
 
 - Multi-agent deep research system (**LangGraph + MCP**) orchestrating **24+ LLMs** via autonomous task decomposition
@@ -116,10 +120,16 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 🔒 *Source private — happy to walk through architecture on a call*
 
-</td>
-<td width="50%" valign="top">
+<br clear="right" />
+
+---
 
 ### 🌟 NoomaLooma *(stealth)*
+
+<div align="left">
+  <img width="300" src="assets/noomalooma/Noomalooma.png" alt="NoomaLooma preview" />
+</div>
+
 **0 → 1 platform as Founding Engineer**
 
 - Architected end-to-end: native **iOS**, **React** web, **FastAPI**, **NeonDB/PostgreSQL**
@@ -132,9 +142,7 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 🔒 *Private — confidential pre-launch product*
 
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 > ### 🔒 A Note on Private Repositories
 >
