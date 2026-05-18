@@ -97,6 +97,22 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 
 ---
 
+
+## 🏆 Certifications
+
+<div align="center">
+  <a href="YOUR_CREDLY_OR_VERIFICATION_LINK_HERE" target="_blank">
+    <img src="assets/certifications/OCI25GAIOCP.png" alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional" height="180" />
+  </a>
+</div>
+
+<p align="center">
+  <strong>Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</strong><br>
+  <em>Generative AI · LLM fine-tuning (LoRA/QLoRA) · LangChain · LangGraph · RAG · AI Agents · Prompt Engineering · Vector DBs · Multi-modal AI · MLOps on OCI</em>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔍 [CiteTalk.com](https://citetalk.com)
