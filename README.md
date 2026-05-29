@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush1014&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/ayushkanaujia-ak1410"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ayushkanaujia.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.ayushkanaujia.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://citetalk.com"><img src="https://img.shields.io/badge/CiteTalk.com-9333EA?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="mailto:kanaujiaayush1499@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
