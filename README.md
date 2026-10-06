@@ -10,7 +10,7 @@
 <!-- ===================================================================== -->
 <div align="center">
   <a href="https://github.com/ayush1014">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%F0%9F%9A%80;Founding+Engineer+%40+NoomaLooma;Creator+of+CiteTalk.com;Architecting+Multi-Agent+AI+Systems;Turning+0%E2%86%921+Ideas+Into+Production" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=Full+Stack+AI+Engineer+%F0%9F%9A%80;Founding+Engineer+%40+Versaunt;Founding+Engineer+%40+NoomaLooma;Creator+of+CiteTalk.com;Architecting+Multi-Agent+AI+Systems;Turning+0%E2%86%921+Ideas+Into+Production" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,6 +31,7 @@
 
 I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by architecting full systems end-to-end using native iOS apps, React frontends, FastAPI backends, multi-agent LLM orchestration, and cloud infrastructure that scales.
 
+- 📈 **Founding Engineer** @ [**Versaunt**](https://trygaas.com) — building [**GaaS**](https://trygaas.com), the AI agent that replaces a marketing agency: it researches a brand, creates the ads, launches campaigns on Meta and optimizes the spend
 - 🚀 **Founding Engineer** @ **NoomaLooma** — built the platform from scratch, scaled to **5,000+ users** ahead of 2026 App Store launch
 - 🔍 **Creator** of [**CiteTalk.com**](https://citetalk.com) — multi-agent research platform with real-time voice agents and folder knowledge management, orchestrating **24+ LLMs**, serving **1,000+ users**
 - 🤖 Deep focus: **agentic AI systems** — LangGraph, LangChain, MCP, multi-agent orchestration, hybrid/graph RAG, knowledge graphs
@@ -101,7 +102,7 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="YOUR_CREDLY_OR_VERIFICATION_LINK_HERE" target="_blank">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9408A92306DDE38413EA0BE1FBF79F648761061493E8BCB480D1ED071B0C2D7B" target="_blank">
     <img src="assets/certifications/OCI25GAIOCP.png" alt="Oracle Cloud Infrastructure 2025 Certified Generative AI Professional" height="180" />
   </a>
 </div>
@@ -114,6 +115,24 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 ---
 
 ## 🚀 Featured Projects
+
+### 📈 [GaaS by Versaunt](https://trygaas.com)
+
+**The AI agent that replaces your marketing agency** — Founding Engineer
+
+- Autonomous ad agent (**LangGraph**) that researches a brand, writes its strategy, generates image and video creatives, launches campaigns on **Meta** and optimizes spend
+- Chat-first product: live streaming replies, a server-side message queue, instant stop, and approval cards before changes reach a live ad account
+- Durable agent runs on a **Postgres** job queue with worker hand-over, and **Redis** streams so any device can follow a running chat live
+- **LiteLLM** gateway with automatic model fallback, behind a **FastAPI** backend and a **Next.js** frontend
+- Blue-green deploys on **AWS**
+
+`Python` `FastAPI` `Next.js` `TypeScript` `LangGraph` `LiteLLM` `PostgreSQL` `Redis` `Meta Marketing API` `AWS`
+
+🔒 *Private — happy to walk through the architecture on a call*
+
+<br clear="right" />
+
+---
 
 ### 🔍 [citetalk.com](https://citetalk.com)
 
@@ -206,7 +225,7 @@ I'm a **Full Stack AI Engineer** who takes ambitious ideas from **0-to-1** by ar
 ## ⚡ Currently...
 
 ```yaml
-🔭 Working on:     Scaling NoomaLooma's multi-agent pipeline + CiteTalk's real-time voice AI
+🔭 Working on:     GaaS @ Versaunt (autonomous AI ad agent) + NoomaLooma's multi-agent pipeline + CiteTalk's real-time voice AI
 🌱 Learning:       Advanced model distillation, MCP server design patterns, RL agents
 👯 Collab on:      Agentic AI tooling, voice-first interfaces, hybrid retrieval systems
 💬 Ask me about:   Building 0→1 AI products, multi-agent orchestration, founding-engineer life
